@@ -1,0 +1,2 @@
+This is a contact management app! All you need to do to use it is run the program and follow the instructions. This application allows you to add contacts, delete them, as well as edit them.
+Once you have a contact list you can search through by putting in a phone number, or display all the contacts you currently have. You are able to export the contacts to a txt document for easier viewing!
